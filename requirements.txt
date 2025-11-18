@@ -1,1 +1,1 @@
-pandas
+apt install python3-pandas
